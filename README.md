@@ -1,16 +1,12 @@
 <div id="top" align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Dastan%20Hairushev&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2b3f5f&height=200&section=header&text=Dastan%20Hairushev&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
+
 <p align="center">
   <a href="https://www.linkedin.com/in/dastan-hairushev-482848321/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/FierceSloth"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:hairushevdastan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<img src="https://hyperweave.app/v1/marquee/SCROLL/chrome.static?data=text:FRONTEND%20DEVELOPER,gh:FierceSloth/swagger-editor-app.stars,gh:FierceSloth/rss-tandem-app.stars,text:TYPESCRIPT%20%26%20REACT,gh:FierceSloth/omni-search-dashboard.stars,gh:FierceSloth/fun-chat.stars" alt="marquee"/>
-
-</div>
 
 <div align="center">
   <br/>
@@ -208,8 +204,8 @@ const dastan: Developer = {
 </div>
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FierceSloth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=FierceSloth&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FierceSloth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FierceSloth&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9" alt="GitHub Streak" />
 </p>
 
 <br>
@@ -219,11 +215,7 @@ const dastan: Developer = {
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FierceSloth/FierceSloth/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FierceSloth/FierceSloth/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/FierceSloth/FierceSloth/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FierceSloth&bg_color=0D1117&color=BD93F9&line=BD93F9&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <div align="center">
@@ -231,4 +223,3 @@ const dastan: Developer = {
   <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="divider" width="100%"/>
   <br/>
 </div>
-
