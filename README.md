@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- GIF -->
-  <img src="https://media1.tenor.com/m/n2_mG0o9nQkAAAAC/cinnamoroll-hello.gif" width="200" />
+  <img src="https://octodex.github.com/images/NUX_Octodex.gif" width="200" />
 
   <!-- Typing SVG -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hey%2C+I'm+Dastan+%F0%9F%91%8B;Frontend+Developer+%7C+React+%7C+TypeScript)](https://git.io/typing-svg)
@@ -19,7 +19,7 @@
 
 ---
 
-## 👻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="30" height="30" /> About Me
 
 ```ts
 const dastan: Developer = {
@@ -41,18 +41,18 @@ const dastan: Developer = {
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Tech Stack
 
 <div align="center">
 
-**Frontend Core**
+**Languages & Core**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/CSS_Modules-000?style=for-the-badge&logo=cssmodules&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -65,25 +65,15 @@ const dastan: Developer = {
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![next-intl](https://img.shields.io/badge/next--intl-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![CodeMirror](https://img.shields.io/badge/CodeMirror-D30707?style=for-the-badge&logo=codemirror&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 
-**Backend & Infrastructure**
+**Architecture & Concepts**
 
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Feature-Sliced Design](https://img.shields.io/badge/FSD-0EA5E9?style=for-the-badge&logo=react&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222?style=for-the-badge&logo=githubpages&logoColor=white)
-
-**Build Tools & DevOps**
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Server-Side Rendering](https://img.shields.io/badge/SSR_/_SSG-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Object-Oriented](https://img.shields.io/badge/OOP_/_MVC-E34F26?style=for-the-badge)
+![Single Page App](https://img.shields.io/badge/SPA-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Testing & Code Quality**
 
@@ -105,7 +95,7 @@ const dastan: Developer = {
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Featured Projects
 
 <table>
   <tr>
@@ -179,12 +169,12 @@ const dastan: Developer = {
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FierceSloth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FierceSloth&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=FierceSloth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=FierceSloth&theme=tokyonight&hide_border=true&background=0D1117&ring=BD93F9&fire=BD93F9&currStreakLabel=BD93F9" alt="GitHub Streak" />
+</p>
 
 <br>
 
@@ -192,13 +182,18 @@ const dastan: Developer = {
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FierceSloth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
 
-<!-- Snake animation -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FierceSloth/FierceSloth/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FierceSloth/FierceSloth/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/FierceSloth/FierceSloth/output/github-snake-dark.svg" />
-  </picture>
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution Calendar" width="720" />
+</div>
+
+---
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ABSphreak/readme-jokes">
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
+  </a>
 </div>
 
 ---
