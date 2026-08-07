@@ -1,12 +1,14 @@
 <div id="top" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2b3f5f&height=200&section=header&text=Dastan%20Hairushev&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=151b23&height=200&section=header&text=Dastan%20Hairushev&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dastan-hairushev-482848321/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/FierceSloth"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:hairushevdastan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+</div>
 
 <div align="center">
   <br/>
@@ -29,11 +31,11 @@ const dastan: Developer = {
 };
 ```
 
-- 🎓 Выпускник **RS School** (полный курс: Vanilla JS → TypeScript → React/Next.js)
-- 🏆 **2× Team Lead** в командных проектах, **2 из 3 наград** на RS Tandem Awards 2026 (среди 38 команд)
-- 🧱 Начинал с **кастомного фреймворка на Vanilla TS** — свой роутер, Event Bus, Component-класс — и только потом перешёл к React
-- 🔬 Пишу **strict TypeScript** — 0 `any`, 0 `ts-ignore` во всех проектах
-- 🌱 Сейчас изучаю: углубляюсь в full-stack
+🎓 Выпускник **RS School** (полный курс: Vanilla JS → TypeScript → React/Next.js)  
+🏆 **2× Team Lead** в командных проектах, **2 из 3 наград** на RS Tandem Awards 2026 (среди 38 команд)  
+🧱 Начинал с **кастомного фреймворка на Vanilla TS** — свой роутер, Event Bus, Component-класс — и только потом перешёл к React  
+🔬 Пишу **strict TypeScript** — 0 `any`, 0 `ts-ignore` во всех проектах  
+🌱 Сейчас изучаю: углубляюсь в full-stack  
 
 <div align="center">
   <br/>
