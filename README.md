@@ -199,6 +199,70 @@ const dastan: Developer = {
   <br/>
 </div>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="30" height="30" /> Recommendations
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Course_Creator-FFD700?style=for-the-badge" />
+        <br><br>
+        <b>Dzmitry Varabei</b>
+        <br>
+        <sub>Senior Program Manager at EPAM Systems<br>Community leader at The Rolling Scopes</sub>
+      </div>
+      <br>
+      <blockquote>
+        2,578 students started the course. A little over 100 reached the end. Around 30 completed all stages in full. <b>Dastan was one of them.</b>
+        <br><br>
+        His team won in two final project nominations: <b>Engineering Excellence</b> and <b>Design Excellence.</b>
+      </blockquote>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Mentor_•_Stage_3-BD93F9?style=for-the-badge" />
+        <br><br>
+        <b>Aliaksei Rudak</b>
+        <br>
+        <sub>Software Engineer at EPAM Solutions<br>Frontend developer · React | Next.js | TS</sub>
+      </div>
+      <br>
+      <blockquote>
+        His code is clean, well-organized, and easy to read. His projects were consistently <b>among the strongest in the course</b>, especially when it came to UI styling and well-thought-out UX.
+        <br><br>
+        I believe Dastan has great potential and would be <b>a valuable addition to any software development team.</b>
+      </blockquote>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Mentor_•_Stages_1–2-BD93F9?style=for-the-badge" />
+        <br><br>
+        <b>Diana Khnizova</b>
+        <br>
+        <sub>Junior Frontend Developer at Kaspi.kz<br>Frontend developer · Vue.js | TypeScript</sub>
+      </div>
+      <br>
+      <blockquote>
+        Dastan is not afraid of challenges, asks the right questions, and consistently sees tasks through to completion. He took ownership of results, supported team members, and was effective in <b>building communication and maintaining team momentum.</b>
+        <br><br>
+        I can confidently recommend Dastan as a <b>promising frontend developer and team leader.</b>
+      </blockquote>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dastan-hairushev-482848321/details/recommendations/">
+    <img src="https://img.shields.io/badge/Read_Full_Recommendations_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Recommendations" />
+  </a>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="divider" width="100%"/>
+  <br/>
+</div>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> GitHub Stats
 
 <div align="center">
